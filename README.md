@@ -1,4 +1,4 @@
-# Python-Essentials-
+# Python-Essentials
 
 Python progress through 
 
