@@ -1,3 +1,7 @@
-print("Programming" ,  end="***" , "Essentials",  end="***" , "in... python") 
+print("Programming" ,  end="***")  
 
+
+print("Essentials",  end="***") 
+
+print("in... python")
 
