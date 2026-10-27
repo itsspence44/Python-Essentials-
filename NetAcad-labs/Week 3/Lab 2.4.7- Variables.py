@@ -1,9 +1,7 @@
-john 
+john = 5 
+mary = 3 
+adam = 2 
 
-mary 
+total_appels = john + mary + adam 
 
-adam
-
-toatal_apples = 3 
-
-print() 
+print(total_appels) 
